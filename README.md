@@ -12,7 +12,7 @@ Kuidas mängida:
 
 avada Zombie_Shooter application ning vajutada Play!
 
-Nuppud:
+Nupud:
 
 Player up: W
 Player down: S
